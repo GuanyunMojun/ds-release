@@ -1,6 +1,6 @@
 {
-  "version": "10.3",
+  "version": "10.4",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "日记改为一天结束后写(覆盖当天+情绪)"
+  "notes": "记忆去重：往事归档/取消双份抽取/字段清理"
 }
