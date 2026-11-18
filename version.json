@@ -1,6 +1,6 @@
 {
-  "version": "10.6.1",
+  "version": "10.7",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "补全拍板识别规则"
+  "notes": "记忆页只放素材；笔记与库移到设置；问记忆直接查"
 }
