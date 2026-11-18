@@ -1,6 +1,6 @@
 {
-  "version": "9.3",
+  "version": "9.4",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "记忆去重+结构化抽取+库搜索+注入回执"
+  "notes": "摘要分条化+记忆注入优先级排序"
 }
