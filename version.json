@@ -1,6 +1,6 @@
 {
-  "version": "8.7",
+  "version": "8.8",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "记忆页编辑区复位修复"
+  "notes": "记忆页可调阈值+额度显示"
 }
