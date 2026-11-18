@@ -1,6 +1,6 @@
 {
-  "version": "11.7",
+  "version": "11.8",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "狗尾续貂重做：只补没聊完爆掉的对话"
+  "notes": "狗尾续貂测试入口(机制已验证)"
 }
