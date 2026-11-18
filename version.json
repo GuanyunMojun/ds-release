@@ -1,6 +1,6 @@
 {
-  "version": "10.8",
+  "version": "10.9",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "历史对话一键消化成笔记"
+  "notes": "历史对话按需检索(RAG)：问到才翻库"
 }
