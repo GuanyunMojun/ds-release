@@ -1,6 +1,6 @@
 {
-  "version": "9.8",
+  "version": "9.9",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "AI记忆移入设置；记忆页只留手动记忆"
+  "notes": "归纳升级：LLM分类+往事合并+素材关键词"
 }
