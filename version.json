@@ -1,6 +1,6 @@
 {
-  "version": "9.1",
+  "version": "9.2",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "修复人格页被记忆页遮挡打不开"
+  "notes": "特殊关注磁铁记忆+记忆强度改名"
 }
