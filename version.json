@@ -1,6 +1,6 @@
 {
-  "version": "11.4",
+  "version": "11.5",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "滚动加固+导入指纹去重"
+  "notes": "修复聊天区无法滚动(body缺flex)"
 }
