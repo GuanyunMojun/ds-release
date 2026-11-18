@@ -1,6 +1,6 @@
 {
-  "version": "9.7",
+  "version": "9.8",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "时间轴记忆：事件/想法按日期归档"
+  "notes": "AI记忆移入设置；记忆页只留手动记忆"
 }
