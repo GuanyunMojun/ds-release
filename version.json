@@ -1,6 +1,6 @@
 {
-  "version": "10.0",
+  "version": "10.1",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "IndexedDB大容量存储+记忆来源追溯"
+  "notes": "使用说明全面更新（覆盖记忆/人格/磁铁/库）"
 }
