@@ -1,0 +1,6 @@
+{
+  "version": "6.8",
+  "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
+  "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
+  "notes": "聊天记录登录后自动搬运全部对话；钥匙备份防重复；形象图片裁剪"
+}
