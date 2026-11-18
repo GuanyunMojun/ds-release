@@ -1,6 +1,6 @@
 {
-  "version": "10.4",
+  "version": "10.5",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "记忆去重：往事归档/取消双份抽取/字段清理"
+  "notes": "日记注入限3天+摘要保留专有名词"
 }
