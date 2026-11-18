@@ -1,6 +1,6 @@
 {
-  "version": "11.5",
+  "version": "11.6",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "修复聊天区无法滚动(body缺flex)"
+  "notes": "滚动加载全部消息+重复检测+狗尾续貂"
 }
