@@ -1,6 +1,6 @@
 {
-  "version": "8.9",
+  "version": "9.0",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "记忆机制说明+人格直达设定"
+  "notes": "人格入口统一；工作台额度三档"
 }
