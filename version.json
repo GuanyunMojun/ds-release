@@ -1,6 +1,6 @@
 {
-  "version": "10.7",
+  "version": "10.8",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "记忆页只放素材；笔记与库移到设置；问记忆直接查"
+  "notes": "历史对话一键消化成笔记"
 }
