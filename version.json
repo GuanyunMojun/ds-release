@@ -1,5 +1,5 @@
 {
-  "version": "7.2",
+  "version": "7.3",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "notes": "聊天记录登录后自动搬运全部对话；工作台清空+复制清空功能"
