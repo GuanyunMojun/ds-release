@@ -1,6 +1,6 @@
 {
-  "version": "8.5",
+  "version": "8.6",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "记忆优先级加固：人格高于记忆"
+  "notes": "多套人格切换+无限记忆阈值可调"
 }
