@@ -1,6 +1,6 @@
 {
-  "version": "10.9",
+  "version": "11.0",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "历史对话按需检索(RAG)：问到才翻库"
+  "notes": "笔记可编辑；恢复备份改为合并"
 }
