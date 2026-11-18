@@ -1,6 +1,6 @@
 {
-  "version": "11.0",
+  "version": "11.1",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "笔记可编辑；恢复备份改为合并"
+  "notes": "核心打磨：分段无缝续接+批量整理+缓存友好"
 }
