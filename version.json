@@ -1,6 +1,6 @@
 {
-  "version": "9.5",
+  "version": "9.6",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "摘要分条化+记忆注入优先级排序"
+  "notes": "递进归纳：摘要事实晋升进长期记忆"
 }
