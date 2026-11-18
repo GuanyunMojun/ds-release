@@ -1,6 +1,6 @@
 {
-  "version": "10.6",
+  "version": "10.6.1",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "理解规则+拍板最高权重；AI记忆改名AI笔记；日记情绪导向"
+  "notes": "补全拍板识别规则"
 }
