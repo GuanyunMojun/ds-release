@@ -1,6 +1,6 @@
 {
-  "version": "8.3",
+  "version": "8.4",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "修复APK版本号：不再提示已安装相同版本"
+  "notes": "素材按需命中注入（省token）"
 }
