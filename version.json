@@ -1,6 +1,6 @@
 {
-  "version": "12.0",
+  "version": "12.1",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "修复抓取(用户消息/剔除思考)+断点续传+发送阻塞修复"
+  "notes": "续貂限定外部对话；记忆原地压缩不跳对话"
 }
