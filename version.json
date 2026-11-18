@@ -1,6 +1,6 @@
 {
-  "version": "9.9",
+  "version": "10.0",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "归纳升级：LLM分类+往事合并+素材关键词"
+  "notes": "IndexedDB大容量存储+记忆来源追溯"
 }
