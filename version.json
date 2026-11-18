@@ -1,6 +1,6 @@
 {
-  "version": "10.1",
+  "version": "10.2",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "使用说明全面更新（覆盖记忆/人格/磁铁/库）"
+  "notes": "AI日记：人格口吻每日一记(只读常驻)"
 }
