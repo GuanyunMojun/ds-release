@@ -1,0 +1,6 @@
+{
+  "version": "12.6",
+  "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
+  "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
+  "notes": "同名对话去重：重复搬进来的每组只保留内容最长的一段"
+}
