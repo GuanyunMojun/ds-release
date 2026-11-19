@@ -1,6 +1,0 @@
-{
-  "version": "12.5",
-  "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "网页版搬运重写：对话顺序修正为交替、思考可折叠展开、重复对话不再搬入、可按名字删除导入对话"
-}
