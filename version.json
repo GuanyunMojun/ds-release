@@ -1,6 +1,6 @@
 {
-  "version": "12.3",
+  "version": "12.4",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "版本号统一修正"
+  "notes": "修复记忆压缩不生效；压缩摘要改为可读文字；清理冗余代码"
 }
