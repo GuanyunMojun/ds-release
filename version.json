@@ -1,6 +1,6 @@
 {
-  "version": "12.8",
+  "version": "12.9",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "网页版搬运改为边滚边抓，长对话不再漏消息"
+  "notes": "搬运升级：优先抓网页自己的接口数据，完整度不再受滚动影响；拿不到就退回边滚边抓"
 }
