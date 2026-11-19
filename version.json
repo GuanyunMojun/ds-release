@@ -1,6 +1,6 @@
 {
-  "version": "12.7",
+  "version": "12.8",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "去掉导入页多余的批量去重输入框；重复的对话在列表里点 ✕ 直接删"
+  "notes": "网页版搬运改为边滚边抓，长对话不再漏消息"
 }
