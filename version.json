@@ -1,6 +1,6 @@
 {
-  "version": "12.2",
+  "version": "12.3",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "修复发送崩溃+抓取顺序+续貂弹窗+气泡加宽"
+  "notes": "版本号统一修正"
 }
