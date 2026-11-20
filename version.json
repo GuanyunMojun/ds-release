@@ -1,6 +1,6 @@
 {
-  "version": "13.3",
+  "version": "13.5",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "修正联网搜索提示（旧文案误写收费）；现在会明确显示本次是否带上搜索工具"
+  "notes": "联网搜索显式关闭 thinking（不再退化成昂贵的深度搜索）；问时间会补上具体时刻；carry 仍未累积（下一版重构记忆系统）"
 }
