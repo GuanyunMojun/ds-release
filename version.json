@@ -1,6 +1,6 @@
 {
-  "version": "12.9",
+  "version": "13.0",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "搬运升级：优先抓网页自己的接口数据，完整度不再受滚动影响；拿不到就退回边滚边抓"
+  "notes": "长对话分段（点标题出横格/可左右滑）、联网搜索（填博查key才有）、记忆强度开关、修复发不出消息、修复形象图保存、去掉无效的深度思考"
 }
