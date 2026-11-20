@@ -1,6 +1,6 @@
 {
-  "version": "13.8",
+  "version": "13.9",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "导入修复（41MB 数据不再崩：改成分片写文件）；补齐欠账的对话（导入的+本地没开记忆的都能补记）；补记失败不再假装成功；删掉旧记忆层重复注入；隐私遮挡（对话标题蒙成■）；消息气泡可开关（默认两边纯文字）；备份恢复实测通过；登录按钮匹配修复"
+  "notes": "修复：背景模糊滑块一碰就把设置冲掉（现在打开设置会回填真实值，且松手才生效）；消息气泡开关改为两边同时生效；设置页三个开关竖排；其余同 13.8（导入分片修复/欠账补记/隐私遮挡）"
 }
