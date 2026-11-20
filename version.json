@@ -1,6 +1,6 @@
 {
-  "version": "13.0",
+  "version": "13.1",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "长对话分段（点标题出横格/可左右滑）、联网搜索（填博查key才有）、记忆强度开关、修复发不出消息、修复形象图保存、去掉无效的深度思考"
+  "notes": "联网搜索改用 DeepSeek 官方服务端工具（免费、不用再注册博查）；设置页更简洁，只需要一个 key"
 }
