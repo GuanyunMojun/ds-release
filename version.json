@@ -1,6 +1,6 @@
 {
-  "version": "13.1",
+  "version": "13.2",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "联网搜索改用 DeepSeek 官方服务端工具（免费、不用再注册博查）；设置页更简洁，只需要一个 key"
+  "notes": "修复联网搜索：关闭默认开启的深度思考模式（之前会变成昂贵的深度搜索），并强制使用 deepseek-flash"
 }
