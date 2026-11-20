@@ -1,6 +1,6 @@
 {
-  "version": "13.7",
+  "version": "13.8",
   "apk": "https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
   "apkMirror": "https://ghfast.top/https://raw.githubusercontent.com/GuanyunMojun/ds-release/main/ds-helper-v1.0.apk",
-  "notes": "记忆系统重写：卡片库 4200+ 张（家/羁绊/三时间/版本链/别名）；注入六类分桶（闲聊340字/创作730字）；自我更正（你说不对它就改）；硬要求置顶（今晚必须/一定要这类优先执行）；免费层本地裁剪保底（关掉付费功能也能正常聊）。删除：AI日记、磁铁记忆、笔记与库、素材概念。备份现在包含卡片库与恢复入口。"
+  "notes": "导入修复（41MB 数据不再崩：改成分片写文件）；补齐欠账的对话（导入的+本地没开记忆的都能补记）；补记失败不再假装成功；删掉旧记忆层重复注入；隐私遮挡（对话标题蒙成■）；消息气泡可开关（默认两边纯文字）；备份恢复实测通过；登录按钮匹配修复"
 }
